@@ -6,4 +6,4 @@ Useful git-hooks for development
 Installation 
 ============
 
-    git-clone git://github.com/moisesvega/git-hooks/<type-of-repo>/ .git/hooks/
+    curl https://raw.github.com/moisesvega/git-hooks/master/hooks/<type-of-repo>/<type-of-hook> >> .git/hooks/<type-of-hook> 
